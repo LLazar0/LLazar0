@@ -13,11 +13,12 @@ Em um futuro próximo me tornarei um desenvolvedor Full Stack.
 </div>
 <div>
   <h3>Linguagens e Tecnologias:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" /> - <img src="https://static-00.iconduck.com/assets.00/file-type-typescript-official-icon-256x256-aavrgmi0.png" width="40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" /> - <img src="https://static-00.iconduck.com/assets.00/file-type-typescript-official-icon-256x256-aavrgmi0.png" width="40px" />
 </div>
 
 ##
-<img src="https://cdn.discordapp.com/attachments/949078043354333208/1179121530488229908/banner-github.png?ex=6578a17f&is=65662c7f&hm=3442e7722b6fd7208d314797f19d696cdbe2163f101ba8baee92f8dba4620ae6&"/>
+
+<img src="https://cdn.discordapp.com/attachments/949078043354333208/1179121530488229908/banner-github.png?ex=6578a17f&is=65662c7f&hm=3442e7722b6fd7208d314797f19d696cdbe2163f101ba8baee92f8dba4620ae6&" width="40px" />
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/949078043354333208/999369678361210890/243d76ca61c6b856cd8baecec5f042f3.jpg">
 
