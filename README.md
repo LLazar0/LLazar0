@@ -18,9 +18,6 @@ Em um futuro próximo me tornarei um desenvolvedor Full Stack.
 
 ##
 
-<img src="https://cdn.discordapp.com/attachments/949078043354333208/1179121530488229908/banner-github.png?ex=6578a17f&is=65662c7f&hm=3442e7722b6fd7208d314797f19d696cdbe2163f101ba8baee92f8dba4620ae6&" width="40px" />
-
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/949078043354333208/999369678361210890/243d76ca61c6b856cd8baecec5f042f3.jpg">
 
 ##
 
